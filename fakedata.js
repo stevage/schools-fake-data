@@ -1,6 +1,6 @@
 /* jshint esnext:true */
 var turfrandom = require('@turf/random');
-var bbox = [143, -37.5, 145, -36];
+var bbox = [142, -37.9, 147, -36];
 
 
 function fakeName(type) {
