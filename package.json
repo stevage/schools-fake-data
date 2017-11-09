@@ -1,0 +1,16 @@
+{
+  "name": "schools-data",
+  "version": "0.0.1",
+  "description": "",
+  "main": "fakedata.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steve Bennett <me@stevebennett.me> (http://stevebennett.me)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@turf/random": "^4.7.3",
+    "jsonfile": "^4.0.0",
+    "turf-voronoi-polygons": "^0.1.2"
+  }
+}
